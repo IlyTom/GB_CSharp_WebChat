@@ -5,7 +5,7 @@ namespace Server
 {
     internal class MessageBuilder
     {
-        private Message _message = new Message();
+        private Message _message = Message.GetInstance();
 
         public MessageBuilder SetSender(string sender)
         {

@@ -62,5 +62,7 @@ namespace Client
                 Console.WriteLine($"[{DateTime.Now}] Ваше сообщение не было доставлено!");
             }
         }
+
+
     }
 }

@@ -28,6 +28,12 @@ namespace Server
             return this;
         }
 
+        public MessageBuilder SetIsRead(bool isRead)
+        {
+            _message.IsRead = isRead;
+            return this;
+        }
+
         public Message Build()
         {
             return _message;

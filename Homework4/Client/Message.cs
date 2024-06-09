@@ -15,13 +15,15 @@ namespace Client
         public DateTime DateTime { get; set; }
         public string Sender { get; set; }
         public string Receiver { get; set; }
+        public bool IsRead { get; set; }
         private Message() { }
-        public Message(string Text, DateTime DateTime, string Sender, string Receiver)
+        public Message(string Text, DateTime DateTime, string Sender, string Receiver, bool isRead)
         {
             this.Text = Text;
             this.DateTime = DateTime;
             this.Sender = Sender;
             this.Receiver = Receiver;
+            this.IsRead = isRead;
         }
         public static Message GetInstance()
         {

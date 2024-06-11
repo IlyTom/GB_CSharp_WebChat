@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\bin\Debug\net7.0\LibraryMessage.deps.json
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\bin\Debug\net7.0\LibraryMessage.dll
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\bin\Debug\net7.0\LibraryMessage.pdb
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\obj\Debug\net7.0\LibraryMessage.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\obj\Debug\net7.0\LibraryMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\obj\Debug\net7.0\LibraryMessage.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\obj\Debug\net7.0\LibraryMessage.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\obj\Debug\net7.0\LibraryMessage.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\obj\Debug\net7.0\LibraryMessage.dll
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\obj\Debug\net7.0\refint\LibraryMessage.dll
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\obj\Debug\net7.0\LibraryMessage.pdb
+C:\Users\User\OneDrive\Рабочий стол\GBSharp\GB_CSharp_WebChat\Homework7\LibraryMessage\obj\Debug\net7.0\ref\LibraryMessage.dll
